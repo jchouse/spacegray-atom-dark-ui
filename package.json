@@ -1,0 +1,11 @@
+{
+  "name": "spacegray-atom-dark-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "https://github.com/jchouse/spacegray-atom-dark-ui",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
